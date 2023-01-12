@@ -5,11 +5,11 @@
 The TCP/IP Internet protocols were originally abstracted as a four-layer stack
 *A **protocol** is a set of rules that partners use when they communicate*
 ### Types of Layers
-####1. 4-layer Stack
-      1. Link Layer
-      1. Internet Layer
-      1. Transport Layer
-      1. Aplication Layer
+#### 1. 4-layer Stack
+       1. Link Layer
+       1. Internet Layer
+       1. Transport Layer
+       1. Aplication Layer
       
 
 

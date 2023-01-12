@@ -7,10 +7,10 @@ The TCP/IP Internet protocols were originally abstracted as a four-layer stack
 ### Types of Layers
 #### 1. 5 or 7-layer Stack
 #### 2. 4-layer Stack
-       2. Link Layer
-       2. Internet Layer
-       2. Transport Layer
-       2. Aplication Layer
+       1. Link Layer
+       1. Internet Layer
+       1. Transport Layer
+       1. Aplication Layer
 
 
 ## Links
